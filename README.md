@@ -5,7 +5,9 @@ A visually engaging component built with HTML, CSS, and JavaScript that displays
 ## Demo
 
 ![Gaming Expanding Cards](./images/Screenshot.jpg)  
-*Replace `demo-image-url` with a link or image of the project in action.*
+
+
+View the live demo here: [GitHub Pages Demo](https://brahimazzaf.github.io/gaming-expanding-cards/)
 
 ## Features
 
